@@ -3,7 +3,7 @@
 En la pista de *Andy’s Playground*, la cámara observa al personaje desde el mismo lado con tres modos de encuadre. [Descargar la demo para Windows](https://github.com/shaw207/deadline-camera/releases/tag/v1.0.0)
 
 <details name="camara" open>
-<summary><strong>Seguimiento y plano fijo</strong> · 10,5 s</summary>
+<summary><strong>Seguimiento y plano fijo</strong></summary>
 
 Al arrancar y frenar, la cámara alcanza al personaje con un pequeño retardo. En la siguiente zona, el personaje cruza el plano mientras la cámara permanece fija.
 
@@ -12,7 +12,7 @@ Al arrancar y frenar, la cámara alcanza al personaje con un pequeño retardo. E
 </details>
 
 <details name="camara">
-<summary><strong>Raíl y cambio de sentido</strong> · 15,5 s</summary>
+<summary><strong>Raíl y cambio de sentido</strong></summary>
 
 El personaje avanza por el raíl durante nueve segundos, frena y da media vuelta. El suavizado de 3 s hace que la cámara termine de avanzar antes de seguirlo en sentido contrario.
 
